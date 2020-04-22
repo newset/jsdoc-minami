@@ -1,5 +1,5 @@
 {
-  "name": "jsdoc-template",
+  "name": "newset/jsdoc-minami",
   "version": "3.3.0",
   "description": "Braintree JSDoc 3 Template",
   "main": "publish.js",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/braintree/jsdoc-template"
+    "url": "https://github.com/newset/jsdoc-minami"
   },
-  "author": "Braintreeps <code@getbraintree.com>",
+  "author": "newset <luojieyy@gmail.com>",
   "licenses": [
     {
       "type": "Apache-2.0",
@@ -19,9 +19,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/braintree/jsdoc-template"
+    "url": "https://github.com/newset/jsdoc-minami"
   },
-  "homepage": "https://github.com/braintree/jsdoc-template",
+  "homepage": "https://github.com/newset/jsdoc-minami",
   "devDependencies": {
     "eslint": "^6.2.2",
     "eslint-config-braintree": "^4.0.0",
