@@ -1,5 +1,5 @@
 {
-  "name": "newset/jsdoc-minami",
+  "name": "@newset/jsdoc-minami",
   "version": "3.3.0",
   "description": "Braintree JSDoc 3 Template",
   "main": "publish.js",
