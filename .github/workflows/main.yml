@@ -1,2 +1,10 @@
-- name: NPM Publish
-  uses: JS-DevTools/npm-publish@v1
+on:
+  push:
+    branches: 
+      - master
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          npm publish --access public
